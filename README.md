@@ -1,4 +1,6 @@
-# Uladzislau Kisliakou
+👋 Hello • Прывітанне • `01001000 01100101 01101100 01101100 01101111`
+
+# I am Uladzislau Kisliakou
 
 Full-Stack Developer focused on building performant web applications, design systems, and microservices.
 
